@@ -1,7 +1,8 @@
 ### Olá 👋
 
-Me chamo Yuri Ruas e sou estudante de desenvolvimento back e front-end há mais de 1 ano.  
-Atualmente trabalho como desenvolvedor full-stack para a Nokengo, utilizando Node e React.
+Me chamo Yuri Ruas e estou cursando o 1º período de Engenharia de Software pela Estácio.  
+Me certifiquei com 100% de aproveitamento no GoStack e atualmente estou fazendo o Ignite, ambos Bootcamp da Rocketseat.  
+No momento sou Técnico de Informática na Rádio Costazul FM e Desenvolvedor Full Stack na Nokengo.
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](http://github.com/oiruasyuri)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oi.ruasy@gmail.com)
@@ -10,17 +11,18 @@ Atualmente trabalho como desenvolvedor full-stack para a Nokengo, utilizando Nod
 
 ### Back-end
 ```
-nodejs expressjs
-jest postgres
+typescript node.js
+express.js postgresql
 mongodb mysql
 ```
 
 ### Front-end
 ```
-html5 bem-css sass jquery
-reactjs nextjs axios
-context-api redux hooks
-styled-components
+html5 css3 bem-css
+sass jquery typescript
+react next.js chakra-ui
+styled-components axios
+mirage-js context-api hooks
 ```
 
 ### Mobile
@@ -31,21 +33,5 @@ expo css-in-js
 
 ### General
 ```
-javascript es6
-typescript git
+es6 git
 ```
-
-<!--
-**oiruasyuri/oiruasyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
